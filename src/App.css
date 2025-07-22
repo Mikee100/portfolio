@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  color: #f1f5f9;
+}
+
+:root {
+  --primary: #1e293b;
+  --secondary: #334155;
+  --accent: #2563eb;
+  --text-dark: #f1f5f9;
+  --text-light: #e0e7ef;
+}
