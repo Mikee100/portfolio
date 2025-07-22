@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemailer": "^7.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^9.31.0"
+  }
+}
